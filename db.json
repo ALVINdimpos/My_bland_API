@@ -96,5 +96,15 @@
       "message": "",
       "id": 6
     }
+
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "alvin",
+      "email": "fistonalvin@gm.com",
+      "password":"alvin@250",
+      "role":"admin"
+    }
   ]
 }
